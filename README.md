@@ -19,7 +19,7 @@
 > - 개발 : Unity
 > - 플랫폼 : PC, Moblie
 > 
->> [인트로 영상](youtube.com/watch?v=NfBCN5MI2gc&feature=youtu.be)
+>> [인트로 영상](https://youtu.be/NfBCN5MI2gc?si=zDhFFqxZcEnzwcU_)
 
 
 ## 1. 🏃 NOM:Beyond
@@ -79,7 +79,7 @@
 # 📞 Contact
 
 - 이메일 : knok1211@gmail.com
-- 블로그(Adobe Flash 포트폴리오) : https://blog.naver.com/knok1211/220386077887
+- 블로그(Adobe Flash 포트폴리오용) : https://blog.naver.com/knok1211/220386077887
 - 유튜브 :<a href="https://www.youtube.com/@dev-odyssey/posts">
   <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="24px" style="margin-top: 10px" />
   </a>
