@@ -6,7 +6,7 @@
 # 📝 Projects
 
 - 2025년 이후 작업한 프로젝트입니다.
-- 현재 게임 개발은 게임 엔진(Unity/C#)과 구글 Antigravity IDE 및 Unity 공식 MCP를 사용합니다.
+- 현재 게임 개발은 게임 엔진(Unity/C#)과 여러 IDE 및 Unity 공식 MCP를 사용합니다.
 
 ## 0. 🚆 Rising Metro(메트로 키우기) - 개발 중
 
