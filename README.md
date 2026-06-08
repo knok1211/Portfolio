@@ -23,7 +23,8 @@
 
 
 ## 1. 🏃 NOM:Beyond
-
+><img width="290" height="435" alt="Image" src="https://github.com/user-attachments/assets/a2854916-5d40-4239-89f7-23d96ba8fba3" />
+>
 > NOM IP를 활용한 달리기 게임
 > 
 > **컴투스홀딩스, CONX 주최 NOM:Arena Honoress 수상**
@@ -41,8 +42,9 @@
 <br />
 
 ## 2. 🌍 GeoQuiz
-
-> AI 채팅으로 지도 이미지를 보고 대화하며 해당 지역을 맞추는 Kakao MCP
+><img width="615" height="534" alt="Image" src="https://github.com/user-attachments/assets/6cb31b2a-cc29-46a6-aed6-5fd8a745c2ae" />
+>
+> AI 채팅으로 하이퍼링크의 지도 이미지를 보고 대화하며 해당 지역을 맞추는 Kakao MCP
 >
 > - Skill :  FastMCP
 >
@@ -53,7 +55,8 @@
 <br />
 
 ## 3. 🪄 MagicShot
-
+><img width="661" height="369" alt="Image" src="https://github.com/user-attachments/assets/805f8ed7-9c69-41a3-982d-febd9abab3bb" />
+>
 > 투사체를 반사시킬 수 있는 탑다운 슈팅 게임
 >
 > - 장르 : 아케이드, 슈팅
@@ -65,7 +68,8 @@
 <br />
 
 ## 4. 🚌 구간별 버스 좌석수 조회 시스템
-
+><img width="550" height="370" alt="Image" src="https://github.com/user-attachments/assets/3588a2b7-c9f2-46b6-8c1f-0d0cffd7829f" />
+>
 > 경기도 버스 정보 시스템(GBIS) API를 활용하여 잔여 좌석수를 수집하고 통계 생성
 > 
 > PaaS에 배포하여 주기별 자동 수집 가능
