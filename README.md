@@ -18,7 +18,7 @@
 > - 개발: Unity
 > - 플랫폼: PC, Moblie
 > 
->> [인트로 영상](https://youtu.be/NfBCN5MI2gc?si=zDhFFqxZcEnzwcU_)
+>> [인트로 영상](https://youtu.be/7f46Gszf-AI?si=26oMujidSFr77Uu4)
 
 
 ## 1. 🏃 NOM:Beyond
