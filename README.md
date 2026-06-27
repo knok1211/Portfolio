@@ -1,11 +1,10 @@
-# 📜 포트폴리오
+_# 📜 포트폴리오
 
 인터랙티브 미디어와 AI 기술을 결합하며, 디지털 세계와 현실을 융합하는 작업을 즐깁니다.
 <br />
 
 # 📝 Projects
 
-- 2025년 이후 작업한 프로젝트입니다.
 - 현재 게임 개발은 게임 엔진(Unity/C#)과 여러 IDE 및 Unity 공식 MCP를 사용합니다.
 
 ## 0. 🚆 Drawing Metro(드로잉 메트로) - 개발 중
@@ -87,6 +86,18 @@
 >
 >> [프로젝트 페이지](https://github.com/juyong04/my-app)
 
+## 6. ⭐ Constellater
+><img width="480" height="531" alt="Image" src="https://github.com/user-attachments/assets/e8d34344-2229-493b-931b-d01861ba1d89" />
+>
+> 별자리 운세 서비스
+> 
+> - 바닐라 HTML/CSS/JS
+> 
+> (2022년 학부 과제용으로 제작되었으며 AI를 사용하지 않고 코딩하여 가독성이 떨어집니다.)
+>
+>> [프로젝트 페이지](https://github.com/knok1211/Constellater)
+>> 
+>> [플레이](https://knok1211.github.io/Constellater/)
 
 # 📞 Contact
 
@@ -95,3 +106,4 @@
 - 유튜브 :<a href="https://www.youtube.com/@dev-odyssey/posts">
   <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="24px" style="margin-top: 10px" />
   </a>
+_
