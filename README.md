@@ -74,7 +74,7 @@
 ## 4. 🚌 구간별 버스 좌석수 조회 시스템
 ><img width="550" height="370" alt="Image" src="https://github.com/user-attachments/assets/3588a2b7-c9f2-46b6-8c1f-0d0cffd7829f" />
 >
-> 공공데이터포털의 GBIS REST API를 활용하여 버스 잔여 좌석 수 데이터를 아카이빙하고 분석하는 웹 서비스
+> 공공데이터포털의 GBIS REST API를 활용하여 버스 좌석 수 데이터를 아카이빙/분석하는 웹 서비스
 >
 > 시간대별 시각화 대시보드와 데이터 엑셀 다운로드 기능 및 PaaS에 배포하여 주기별 자동 수집 가능
 > 
