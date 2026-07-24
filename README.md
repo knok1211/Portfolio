@@ -16,6 +16,7 @@
 > - 장르: 건설 경영, 캐주얼
 > - 개발: Unity
 > - 플랫폼: PC, Moblie
+> - 개발 기간: 2026년 5-6월
 > 
 >> [인트로 영상](https://youtu.be/7f46Gszf-AI?si=26oMujidSFr77Uu4)
 
@@ -33,6 +34,7 @@
 > - 장르: 퍼즐, 러닝 액션
 > - 개발: Unity
 > - 플랫폼: Web
+> - 개발 기간: 2026년 1월-현재 출시 준비
 > 
 >> [프로젝트 배포 페이지](https://github.com/knok1211/NOMBeyond)
 >>
@@ -51,6 +53,7 @@
 >
 >
 > - 프레임워크: FastMCP
+> - 개발 기간: 2026년 1월
 >
 >> [프로젝트 페이지](https://github.com/knok1211/GeoQuiz)
 >>
@@ -66,6 +69,7 @@
 > - 장르: 아케이드, 슈팅
 > - 개발: Unity
 > - 플랫폼: PC
+> - 개발 기간: 2025년 2학기 중
 > 
 >> [프로젝트 페이지](https://github.com/knok1211/MagicShot)
 
@@ -79,6 +83,7 @@
 > 시간대별 시각화 대시보드와 데이터 엑셀 다운로드 기능 및 PaaS에 배포하여 주기별 자동 수집 가능
 > 
 > - 프레임워크: Django
+> - 개발 기간: 2025년 2학기 중
 >
 >> [프로젝트 페이지](https://github.com/knok1211/django2/tree/main)
 <br />
@@ -92,10 +97,25 @@
 > 
 > - 프레임워크: React
 > - 기술 스택: Firebase, Kakao Map API 등
+> - 개발 기간: 2025년 1학기 중
 >
 >> [프로젝트 페이지](https://github.com/juyong04/my-app)
 
-## 6. ⭐ Constellater
+## 6. ⚙️ 아두이노 기능성 게임 프로젝트
+><img width="420" height="294" alt="2024-12-13 15;46;50" src="https://github.com/user-attachments/assets/2af2e08b-d5f7-4417-a25e-985b0d166706" />
+>
+> 완력기에 Arduino 무선 장치를 부착하여 기능성 운동 게임 컨트롤러 구현
+>
+> Processing과 연동하여 GUI 게임 실행 가능
+> 
+> - Arduino/Processing
+> - 개발 기간: 2024년 2학기 중
+>
+>> [프로젝트 페이지](https://github.com/knok1211/ArduinoExergame)
+>> 
+>> [장치 설명 PDF](https://github.com/user-attachments/files/30337606/_.pdf)
+
+## 7. ⭐ Constellater
 ><img width="480" height="531" alt="Image" src="https://github.com/user-attachments/assets/e8d34344-2229-493b-931b-d01861ba1d89" />
 >
 > 그리스 신화 유래 감상 및 오늘의 운세를 제공하는 반응형 웹사이트
@@ -103,12 +123,14 @@
 > 외부 프레임워크/라이브러리 없이 수학적 좌표 계산(삼각함수) 기반의 인터랙티브 다이얼 인터페이스
 > 
 > - 바닐라 HTML/CSS/JS
+> - 개발 기간: 2022년 1학기 중
 > 
 > (2022년 학부 과제용으로 제작되었으며 AI를 사용하지 않고 코딩하여 가독성이 떨어집니다.)
 >
 >> [프로젝트 페이지](https://github.com/knok1211/Constellater)
 >> 
 >> [플레이](https://knok1211.github.io/Constellater/)
+
 
 # 📞 Contact
 
