@@ -114,6 +114,16 @@
 >> [프로젝트 페이지](https://github.com/knok1211/ArduinoExergame)
 >> 
 >> [장치 설명 PDF](https://github.com/user-attachments/files/30337606/_.pdf)
+>>
+>> <details>
+>>  <summary>테스트 영상</summary>
+>>  <video src="https://github.com/user-attachments/assets/23cddc6c-5d98-46f2-a774-8c84bad27f89.mp4" controls width="100%"></video>
+>> </details>
+
+
+
+
+
 
 ## 7. ⭐ Constellater
 ><img width="480" height="531" alt="Image" src="https://github.com/user-attachments/assets/e8d34344-2229-493b-931b-d01861ba1d89" />
